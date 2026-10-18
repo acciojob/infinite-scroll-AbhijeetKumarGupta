@@ -1,5 +1,5 @@
 //your code here!
-const list = document.getElementById('list');
+const list = document.getElementById('infi-list');
 
 function addItems() {
   for (let i = 0; i < 10; i++) {
